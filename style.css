@@ -1,0 +1,234 @@
+.container {
+	width: 950px;
+	margin: 40px auto;
+}
+
+
+p{
+	font-family: lato;
+	font-size: 20px;
+    line-height: 38px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 56px;
+}
+
+h1{
+	font-family: lora;
+    font-size: 40px;
+    line-height: 58px;
+    text-align: left;
+    color: #00286b;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 15px;
+    font-weight: bold;
+}
+
+h2{
+	font-family: lora;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: left;
+    color: #00286b;
+    margin-bottom: 28px;
+    margin-left: 10px;
+}
+
+.navbarcard-grey{
+	background-color: white;
+    padding: 20px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.navbarlogo-left{
+	float: left;
+	padding: 0;
+	margin: -18px;
+}
+
+.logo-circle{
+	width: 30%;
+	max-width: 400px;
+	height: auto;
+ 	clip-path:ellipse(50% 50%);
+}
+
+
+.navbarmenu-right ul{
+	padding-right: 19px;
+    margin: -8px;
+    font-size: 17px;
+    float: right;
+}
+
+
+.navbarmenu-right li{
+	display: inline;
+  	list-style: none;
+  	padding: 16px;
+  	font-weight: 600;
+
+}
+
+.cta-appstore{
+    font-size: 16px;
+    white-space: nowrap;
+    color: #fff;
+    background-color: #0180ff;
+    border-radius: 20px;
+    padding: 10px 20px 8px;
+    transition: background-color 0.3s ease-in-out;
+    font-weight: normal;
+    border: none;
+}
+
+.cta-appstore:hover{
+	background-color: #00286b;
+	color: #fff;
+}
+
+.card-white{
+	background-color: white;
+    padding: 40px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 56px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    margin: 20px 0px 50px;
+    text-align: center;
+}
+
+.iphone-right{
+	float: right;
+	width: 500px;
+}
+
+.homepagecard-white{
+	background-color: white;
+    padding: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    margin: 20px 0px 50px;
+    text-align: center;
+    height: 385px;
+}
+
+
+.pcard-right{
+	text-align: left;
+    font-family: lato;
+    font-size: 20px;
+    line-height: 36px;
+    color: #000;
+    margin-bottom: 56px;
+    margin-left: 436px;
+    margin-right: 30px;
+}
+
+.pcard-left{
+	text-align: left;
+    font-family: lato;
+    font-size: 20px;
+    line-height: 38px;
+    color: #000;
+    margin-bottom: 56px;
+    margin-left: 10px;
+}
+
+.img-vendeur{
+	width: 400px;
+    padding: 8px;
+    border-radius: 14px;
+    float: right;
+}
+
+.img-acheteur{
+	width: 412px;
+    padding: 8px;
+    padding-left: 0px;
+    padding-top: 32px;
+    border-radius: 14px;
+    float: left;
+}
+
+.btn-savoirplus{
+	font-size: 16px;
+    font-family: 'Lora';
+    white-space: nowrap;
+    color: #fff;
+    background-color:#ff6666;
+    border-radius: 20px;
+    padding: 15px 115px 15px;
+    transition: background-color 0.3s ease-in-out;
+    border: none;
+    margin: -27px;
+    margin-left: -61px;
+    font-weight: bold;
+}
+
+.btn-savoirplus:hover{
+	background-color: #00286b;
+	color: #fff;
+}
+
+
+#btn-right{
+	float: right;
+    margin-right: 34px;
+}
+
+.acheteurcard-white{
+	background-color: white;
+    padding: 40px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 64px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    margin: 20px 0px 50px;
+    text-align: center;
+}
+
+.img-apport{
+	width: 400px;
+    padding: 8px;
+    border-radius: 14px;
+    float: right;
+    padding-top: 32px;
+}
+
+.cta-download{
+	font-size: 16px;
+    font-family: 'Lora';
+    white-space: nowrap;
+    color: #fff;
+    background-color: #0180ff;
+    border-radius: 20px;
+    padding: 15px 50px 15px;
+    transition: background-color 0.3s ease-in-out;
+    font-weight: bold;
+    border: none;
+    margin: -27px;
+    margin-left: -71px;
+}
+
+.cta-download:hover{
+	background-color: #00286b;
+	color: #fff;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+	font-family: lora;
+	font-size: 16px;
+}
